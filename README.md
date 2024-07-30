@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ABHILASHVM/LeetCode/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/ABHILASHVM/LeetCode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ABHILASHVM/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ABHILASHVM/LeetCode/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -71,4 +73,8 @@
 | ------- |
 | [0383-ransom-note](https://github.com/ABHILASHVM/LeetCode/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/ABHILASHVM/LeetCode/tree/master/0948-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ABHILASHVM/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
