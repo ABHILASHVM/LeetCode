@@ -15,6 +15,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/ABHILASHVM/LeetCode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/ABHILASHVM/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ABHILASHVM/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0055-jump-game](https://github.com/ABHILASHVM/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/ABHILASHVM/LeetCode/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/ABHILASHVM/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ABHILASHVM/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/ABHILASHVM/LeetCode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ABHILASHVM/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -108,6 +110,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ABHILASHVM/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ABHILASHVM/LeetCode/tree/master/0155-min-stack) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ABHILASHVM/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Database
