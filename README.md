@@ -6,6 +6,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/ABHILASHVM/LeetCode/tree/master/0012-integer-to-roman) |
 | [0219-contains-duplicate-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ABHILASHVM/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ABHILASHVM/LeetCode/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/ABHILASHVM/LeetCode/tree/master/0648-replace-words) |
@@ -47,6 +48,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ABHILASHVM/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/ABHILASHVM/LeetCode/tree/master/0260-single-number-iii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/ABHILASHVM/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/ABHILASHVM/LeetCode/tree/master/0648-replace-words) |
 | [0948-sort-an-array](https://github.com/ABHILASHVM/LeetCode/tree/master/0948-sort-an-array) |
@@ -64,12 +66,14 @@
 | [0011-container-with-most-water](https://github.com/ABHILASHVM/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ABHILASHVM/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ABHILASHVM/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ABHILASHVM/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ABHILASHVM/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ABHILASHVM/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/ABHILASHVM/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ABHILASHVM/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ABHILASHVM/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -155,6 +159,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ABHILASHVM/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Simulation
 |  |
