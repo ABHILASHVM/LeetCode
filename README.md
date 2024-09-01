@@ -57,6 +57,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/ABHILASHVM/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ABHILASHVM/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ABHILASHVM/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ABHILASHVM/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ABHILASHVM/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/ABHILASHVM/LeetCode/tree/master/2502-sort-the-people) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/ABHILASHVM/LeetCode/tree/master/0068-text-justification) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ABHILASHVM/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Tree
 |  |
 | ------- |
@@ -199,4 +201,8 @@
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/ABHILASHVM/LeetCode/tree/master/0648-replace-words) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ABHILASHVM/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
