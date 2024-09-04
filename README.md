@@ -31,6 +31,7 @@
 | [0383-ransom-note](https://github.com/ABHILASHVM/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ABHILASHVM/LeetCode/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/ABHILASHVM/LeetCode/tree/master/0648-replace-words) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABHILASHVM/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ABHILASHVM/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ABHILASHVM/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ABHILASHVM/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -143,6 +144,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ABHILASHVM/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ABHILASHVM/LeetCode/tree/master/0155-min-stack) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABHILASHVM/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ABHILASHVM/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Database
 |  |
