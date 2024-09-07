@@ -37,6 +37,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ABHILASHVM/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ABHILASHVM/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/ABHILASHVM/LeetCode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/ABHILASHVM/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
@@ -67,6 +68,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/ABHILASHVM/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/ABHILASHVM/LeetCode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/ABHILASHVM/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
 | ------- |
