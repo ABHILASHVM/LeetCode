@@ -224,4 +224,12 @@
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ABHILASHVM/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ABHILASHVM/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ABHILASHVM/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ABHILASHVM/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
