@@ -22,6 +22,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ABHILASHVM/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0650-2-keys-keyboard](https://github.com/ABHILASHVM/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/1240-stone-game-ii) |
+| [1642-water-bottles](https://github.com/ABHILASHVM/LeetCode/tree/master/1642-water-bottles) |
 ## String
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/ABHILASHVM/LeetCode/tree/master/0068-text-justification) |
+| [1642-water-bottles](https://github.com/ABHILASHVM/LeetCode/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ABHILASHVM/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ABHILASHVM/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ABHILASHVM/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
