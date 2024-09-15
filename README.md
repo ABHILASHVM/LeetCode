@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ABHILASHVM/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ABHILASHVM/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ABHILASHVM/LeetCode/tree/master/0012-integer-to-roman) |
 | [0219-contains-duplicate-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -47,6 +48,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ABHILASHVM/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ABHILASHVM/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ABHILASHVM/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/ABHILASHVM/LeetCode/tree/master/0068-text-justification) |
