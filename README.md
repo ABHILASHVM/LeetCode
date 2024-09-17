@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ABHILASHVM/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ABHILASHVM/LeetCode/tree/master/0012-integer-to-roman) |
 | [0219-contains-duplicate-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/ABHILASHVM/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ABHILASHVM/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ABHILASHVM/LeetCode/tree/master/0409-longest-palindrome) |
@@ -63,6 +64,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ABHILASHVM/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/ABHILASHVM/LeetCode/tree/master/0260-single-number-iii) |
+| [0349-intersection-of-two-arrays](https://github.com/ABHILASHVM/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/ABHILASHVM/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/ABHILASHVM/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
@@ -92,6 +94,7 @@
 | [0075-sort-colors](https://github.com/ABHILASHVM/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ABHILASHVM/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/ABHILASHVM/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ABHILASHVM/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ABHILASHVM/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
@@ -99,6 +102,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/ABHILASHVM/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ABHILASHVM/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/ABHILASHVM/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/ABHILASHVM/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/ABHILASHVM/LeetCode/tree/master/0948-sort-an-array) |
@@ -195,6 +199,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ABHILASHVM/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ABHILASHVM/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ABHILASHVM/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
