@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ABHILASHVM/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ABHILASHVM/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ABHILASHVM/LeetCode/tree/master/0012-integer-to-roman) |
+| [0128-longest-consecutive-sequence](https://github.com/ABHILASHVM/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ABHILASHVM/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -59,6 +60,7 @@
 | [0068-text-justification](https://github.com/ABHILASHVM/LeetCode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/ABHILASHVM/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ABHILASHVM/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/ABHILASHVM/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ABHILASHVM/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/ABHILASHVM/LeetCode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -268,4 +270,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ABHILASHVM/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ABHILASHVM/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
