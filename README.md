@@ -72,6 +72,7 @@
 | [0539-minimum-time-difference](https://github.com/ABHILASHVM/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/ABHILASHVM/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/ABHILASHVM/LeetCode/tree/master/0648-replace-words) |
+| [0729-my-calendar-i](https://github.com/ABHILASHVM/LeetCode/tree/master/0729-my-calendar-i) |
 | [0890-lemonade-change](https://github.com/ABHILASHVM/LeetCode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/ABHILASHVM/LeetCode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/ABHILASHVM/LeetCode/tree/master/1137-height-checker) |
@@ -205,6 +206,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ABHILASHVM/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0729-my-calendar-i](https://github.com/ABHILASHVM/LeetCode/tree/master/0729-my-calendar-i) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ABHILASHVM/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ABHILASHVM/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ABHILASHVM/LeetCode/tree/master/0155-min-stack) |
+| [0729-my-calendar-i](https://github.com/ABHILASHVM/LeetCode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ABHILASHVM/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -274,4 +277,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ABHILASHVM/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ABHILASHVM/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ABHILASHVM/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
