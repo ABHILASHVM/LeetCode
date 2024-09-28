@@ -73,6 +73,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/ABHILASHVM/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/ABHILASHVM/LeetCode/tree/master/0648-replace-words) |
 | [0729-my-calendar-i](https://github.com/ABHILASHVM/LeetCode/tree/master/0729-my-calendar-i) |
+| [0859-design-circular-deque](https://github.com/ABHILASHVM/LeetCode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/ABHILASHVM/LeetCode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/ABHILASHVM/LeetCode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/ABHILASHVM/LeetCode/tree/master/1137-height-checker) |
@@ -227,6 +228,7 @@
 | [0155-min-stack](https://github.com/ABHILASHVM/LeetCode/tree/master/0155-min-stack) |
 | [0729-my-calendar-i](https://github.com/ABHILASHVM/LeetCode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ABHILASHVM/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/ABHILASHVM/LeetCode/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -265,6 +267,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ABHILASHVM/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0859-design-circular-deque](https://github.com/ABHILASHVM/LeetCode/tree/master/0859-design-circular-deque) |
 ## Recursion
 |  |
 | ------- |
@@ -285,4 +288,8 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/ABHILASHVM/LeetCode/tree/master/0729-my-calendar-i) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/ABHILASHVM/LeetCode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
