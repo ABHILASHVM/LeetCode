@@ -14,6 +14,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ABHILASHVM/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ABHILASHVM/LeetCode/tree/master/0409-longest-palindrome) |
+| [0432-all-oone-data-structure](https://github.com/ABHILASHVM/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0648-replace-words](https://github.com/ABHILASHVM/LeetCode/tree/master/0648-replace-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ABHILASHVM/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ABHILASHVM/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -229,6 +230,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ABHILASHVM/LeetCode/tree/master/0155-min-stack) |
+| [0432-all-oone-data-structure](https://github.com/ABHILASHVM/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/ABHILASHVM/LeetCode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ABHILASHVM/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/ABHILASHVM/LeetCode/tree/master/0859-design-circular-deque) |
@@ -273,6 +275,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ABHILASHVM/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ABHILASHVM/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ABHILASHVM/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0432-all-oone-data-structure](https://github.com/ABHILASHVM/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/ABHILASHVM/LeetCode/tree/master/0859-design-circular-deque) |
 ## Recursion
 |  |
@@ -298,4 +301,8 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/ABHILASHVM/LeetCode/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/ABHILASHVM/LeetCode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
