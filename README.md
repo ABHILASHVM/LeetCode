@@ -31,6 +31,7 @@
 | [0539-minimum-time-difference](https://github.com/ABHILASHVM/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/ABHILASHVM/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/1240-stone-game-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ABHILASHVM/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/ABHILASHVM/LeetCode/tree/master/1642-water-bottles) |
 ## String
 |  |
@@ -284,6 +285,7 @@
 | [0432-all-oone-data-structure](https://github.com/ABHILASHVM/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/ABHILASHVM/LeetCode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/ABHILASHVM/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ABHILASHVM/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
