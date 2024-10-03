@@ -21,6 +21,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/ABHILASHVM/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ABHILASHVM/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ABHILASHVM/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/ABHILASHVM/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ABHILASHVM/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ABHILASHVM/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/ABHILASHVM/LeetCode/tree/master/2502-sort-the-people) |
@@ -93,6 +94,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ABHILASHVM/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ABHILASHVM/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ABHILASHVM/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/ABHILASHVM/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ABHILASHVM/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ABHILASHVM/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ABHILASHVM/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -156,6 +158,7 @@
 | [0238-product-of-array-except-self](https://github.com/ABHILASHVM/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1240-stone-game-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ABHILASHVM/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1694-make-sum-divisible-by-p](https://github.com/ABHILASHVM/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ABHILASHVM/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
