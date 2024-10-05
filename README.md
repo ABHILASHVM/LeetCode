@@ -16,6 +16,7 @@
 | [0383-ransom-note](https://github.com/ABHILASHVM/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ABHILASHVM/LeetCode/tree/master/0409-longest-palindrome) |
 | [0432-all-oone-data-structure](https://github.com/ABHILASHVM/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/ABHILASHVM/LeetCode/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/ABHILASHVM/LeetCode/tree/master/0648-replace-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ABHILASHVM/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/ABHILASHVM/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -49,6 +50,7 @@
 | [0383-ransom-note](https://github.com/ABHILASHVM/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ABHILASHVM/LeetCode/tree/master/0409-longest-palindrome) |
 | [0539-minimum-time-difference](https://github.com/ABHILASHVM/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/ABHILASHVM/LeetCode/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/ABHILASHVM/LeetCode/tree/master/0648-replace-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ABHILASHVM/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABHILASHVM/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -117,6 +119,7 @@
 | [0344-reverse-string](https://github.com/ABHILASHVM/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ABHILASHVM/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/ABHILASHVM/LeetCode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ABHILASHVM/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ABHILASHVM/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ABHILASHVM/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -225,6 +228,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ABHILASHVM/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/ABHILASHVM/LeetCode/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
 |  |
