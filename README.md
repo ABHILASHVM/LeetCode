@@ -46,6 +46,7 @@
 | [0006-zigzag-conversion](https://github.com/ABHILASHVM/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/ABHILASHVM/LeetCode/tree/master/0012-integer-to-roman) |
 | [0068-text-justification](https://github.com/ABHILASHVM/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/ABHILASHVM/LeetCode/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/ABHILASHVM/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ABHILASHVM/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ABHILASHVM/LeetCode/tree/master/0409-longest-palindrome) |
@@ -206,6 +207,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/ABHILASHVM/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ABHILASHVM/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ABHILASHVM/LeetCode/tree/master/0155-min-stack) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABHILASHVM/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
