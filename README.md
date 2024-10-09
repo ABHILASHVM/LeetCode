@@ -55,6 +55,7 @@
 | [0567-permutation-in-string](https://github.com/ABHILASHVM/LeetCode/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/ABHILASHVM/LeetCode/tree/master/0648-replace-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ABHILASHVM/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ABHILASHVM/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABHILASHVM/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ABHILASHVM/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ABHILASHVM/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -167,6 +168,7 @@
 | [0409-longest-palindrome](https://github.com/ABHILASHVM/LeetCode/tree/master/0409-longest-palindrome) |
 | [0624-maximum-distance-in-arrays](https://github.com/ABHILASHVM/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/ABHILASHVM/LeetCode/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ABHILASHVM/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ABHILASHVM/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
@@ -219,6 +221,7 @@
 | [0071-simplify-path](https://github.com/ABHILASHVM/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ABHILASHVM/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ABHILASHVM/LeetCode/tree/master/0155-min-stack) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ABHILASHVM/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABHILASHVM/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ABHILASHVM/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ABHILASHVM/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
