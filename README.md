@@ -92,6 +92,7 @@
 | [0859-design-circular-deque](https://github.com/ABHILASHVM/LeetCode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/ABHILASHVM/LeetCode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/ABHILASHVM/LeetCode/tree/master/0948-sort-an-array) |
+| [1002-maximum-width-ramp](https://github.com/ABHILASHVM/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1137-height-checker](https://github.com/ABHILASHVM/LeetCode/tree/master/1137-height-checker) |
 | [1240-stone-game-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/ABHILASHVM/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -222,6 +223,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ABHILASHVM/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ABHILASHVM/LeetCode/tree/master/0155-min-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ABHILASHVM/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/ABHILASHVM/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABHILASHVM/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ABHILASHVM/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ABHILASHVM/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -357,4 +359,8 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/ABHILASHVM/LeetCode/tree/master/0432-all-oone-data-structure) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/ABHILASHVM/LeetCode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
