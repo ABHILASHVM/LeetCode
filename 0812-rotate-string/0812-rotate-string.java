@@ -3,7 +3,7 @@ class Solution {
     
         int len = s.length();
         for (int i = 0; i < len; i++) {
-            String rotated = s.substring(i) + s.substring(0, i);
+            String rotated = s.substring(i,len) + s.substring(0, i);
             if (rotated.equals(goal)) {
                 return true;
             }
