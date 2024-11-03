@@ -57,6 +57,7 @@
 | [0539-minimum-time-difference](https://github.com/ABHILASHVM/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/ABHILASHVM/LeetCode/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/ABHILASHVM/LeetCode/tree/master/0648-replace-words) |
+| [0812-rotate-string](https://github.com/ABHILASHVM/LeetCode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ABHILASHVM/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ABHILASHVM/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABHILASHVM/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -386,4 +387,8 @@
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ABHILASHVM/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ABHILASHVM/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
