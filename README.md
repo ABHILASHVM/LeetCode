@@ -72,6 +72,7 @@
 | [2502-sort-the-people](https://github.com/ABHILASHVM/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ABHILASHVM/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ABHILASHVM/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ABHILASHVM/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/ABHILASHVM/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ABHILASHVM/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3451-string-compression-iii](https://github.com/ABHILASHVM/LeetCode/tree/master/3451-string-compression-iii) |
